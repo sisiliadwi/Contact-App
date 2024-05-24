@@ -1,0 +1,34 @@
+body, html{
+    height: 100%;
+    background-color: rgb(12, 199, 162);
+  }
+
+  .custom-input{
+    border-color: rgb(12, 199, 162);
+    border: 2px solid rgb(12, 199, 162);
+  }
+  .bg{
+    background-color: white;
+  }
+  .btn{
+    background-color: rgb(12, 199, 162);
+    border-radius: 20px;
+    color: white;
+    margin-top: 50px;
+
+  }
+
+.custom-form {
+    width: 500px; 
+    margin-left: auto; 
+    margin-right: auto;
+    margin-top: 30px; 
+    background-color: white;
+    padding: 30px; 
+}
+
+.btn-primary {
+    display: block; 
+    margin: 0 auto; 
+}
+  
